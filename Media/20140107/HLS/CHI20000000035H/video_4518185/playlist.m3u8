@@ -4,3 +4,8 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:10.4271,title
 1.ts
+#EXTINF:10.4271,title
+2.ts
+#EXTINF:10.4271,title
+3.ts
+#EXT-X-ENDLIST
